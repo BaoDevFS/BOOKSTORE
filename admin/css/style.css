@@ -941,6 +941,7 @@ a:hover {
 .top-not-cen {
     margin: 0 auto;
     display: table;
+    display: none;
     padding-top: 5px;
 }
 .tab-menu {
